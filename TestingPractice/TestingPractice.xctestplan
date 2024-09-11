@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "9DD9C6F1-4A8B-40F3-9A50-48225749F423",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:TestingPractice.xcodeproj",
+      "identifier" : "48B8FEC72C8F1DAF00BC5BC0",
+      "name" : "TestingPractice"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TestingPractice.xcodeproj",
+        "identifier" : "48B8FED72C8F1DB100BC5BC0",
+        "name" : "TestingPracticeTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:TestingPractice.xcodeproj",
+        "identifier" : "48B8FEE12C8F1DB100BC5BC0",
+        "name" : "TestingPracticeUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
